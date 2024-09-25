@@ -1,5 +1,6 @@
 {
   "name": "zustand-todo-app",
+  "homepage": "https://asudbury.github.io/zustand-todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
