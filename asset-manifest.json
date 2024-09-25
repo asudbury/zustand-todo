@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.9670e150.js",
-    "index.html": "/index.html",
-    "main.9670e150.js.map": "/static/js/main.9670e150.js.map"
+    "main.js": "/zustand-todo/static/js/main.9670e150.js",
+    "index.html": "/zustand-todo/index.html",
+    "main.9670e150.js.map": "/zustand-todo/static/js/main.9670e150.js.map"
   },
   "entrypoints": [
     "static/js/main.9670e150.js"
